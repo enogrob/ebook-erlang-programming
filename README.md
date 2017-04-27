@@ -19,14 +19,14 @@ Chapter 1 Introduction
 [x] How Should I Use Erlang?
 
 Chapter 2 Basic Erlang
-[ ] Integers
-[ ] The Erlang Shell
-[ ] Floats
-[ ] Atoms
-[ ] Booleans
-[ ] Tuples
-[ ] Lists
-[ ] Term Comparison
+[x] Integers
+[x] The Erlang Shell
+[x] Floats
+[x] Atoms
+[x] Booleans
+[x] Tuples
+[x] Lists
+[x] Term Comparison
 [ ] Variables
 [ ] Complex Data Structures
 [ ] Pattern Matching
