@@ -27,10 +27,10 @@ Chapter 2 Basic Erlang
 [x] Tuples
 [x] Lists
 [x] Term Comparison
-[ ] Variables
-[ ] Complex Data Structures
-[ ] Pattern Matching
-[ ] Functions
+[x] Variables
+[x] Complex Data Structures
+[x] Pattern Matching
+[x] Functions
 [ ] Modules
 [ ] Exercises
 
