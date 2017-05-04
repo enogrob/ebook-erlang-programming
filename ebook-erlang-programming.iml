@@ -8,7 +8,25 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/src/code/chapter2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/chapter2" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/src/chapter10" />
+      <excludeFolder url="file://$MODULE_DIR$/src/chapter11" />
+      <excludeFolder url="file://$MODULE_DIR$/src/chapter12" />
+      <excludeFolder url="file://$MODULE_DIR$/src/chapter13" />
+      <excludeFolder url="file://$MODULE_DIR$/src/chapter14" />
+      <excludeFolder url="file://$MODULE_DIR$/src/chapter15" />
+      <excludeFolder url="file://$MODULE_DIR$/src/chapter16" />
+      <excludeFolder url="file://$MODULE_DIR$/src/chapter17" />
+      <excludeFolder url="file://$MODULE_DIR$/src/chapter18" />
+      <excludeFolder url="file://$MODULE_DIR$/src/chapter19" />
+      <excludeFolder url="file://$MODULE_DIR$/src/chapter3" />
+      <excludeFolder url="file://$MODULE_DIR$/src/chapter4" />
+      <excludeFolder url="file://$MODULE_DIR$/src/chapter5" />
+      <excludeFolder url="file://$MODULE_DIR$/src/chapter6" />
+      <excludeFolder url="file://$MODULE_DIR$/src/chapter7" />
+      <excludeFolder url="file://$MODULE_DIR$/src/chapter8" />
+      <excludeFolder url="file://$MODULE_DIR$/src/chapter9" />
     </content>
     <orderEntry type="jdk" jdkName="Erlang 19" jdkType="Erlang SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

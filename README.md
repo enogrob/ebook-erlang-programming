@@ -31,8 +31,8 @@ Chapter 2 Basic Erlang
 [x] Complex Data Structures
 [x] Pattern Matching
 [x] Functions
-[ ] Modules
-[ ] Exercises
+[x] Modules
+[x] Exercises
 
 Chapter 3 Sequential Erlang
 [ ] Conditional Evaluations
