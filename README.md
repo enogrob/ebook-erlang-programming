@@ -35,8 +35,8 @@ Chapter 2 Basic Erlang
 [x] Exercises
 
 Chapter 3 Sequential Erlang
-[ ] Conditional Evaluations
-[ ] Guards
+[x] Conditional Evaluations
+[x] Guards
 [ ] Built-in Functions
 [ ] Recursion
 [ ] Runtime Errors
