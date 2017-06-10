@@ -38,12 +38,12 @@ Chapter 3 Sequential Erlang
 [x] Conditional Evaluations
 [x] Guards
 [x] Built-in Functions
-[ ] Recursion
-[ ] Runtime Errors
-[ ] Handling Errors
-[ ] Library Modules
-[ ] The Debugger
-[ ] Exercises
+[x] Recursion
+[x] Runtime Errors
+[x] Handling Errors
+[x] Library Modules
+[x] The Debugger
+[~] Exercises
 
 Chapter 4 Concurrent Programming
 [ ] Creating Processes
