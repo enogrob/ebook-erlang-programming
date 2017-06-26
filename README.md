@@ -43,11 +43,11 @@ Chapter 3 Sequential Erlang
 [x] Handling Errors
 [x] Library Modules
 [x] The Debugger
-[~] Exercises
+[x] Exercises
 
 Chapter 4 Concurrent Programming
-[ ] Creating Processes
-[ ] Message Passing
+[x] Creating Processes
+[x] Message Passing
 [ ] Receiving Messages
 [ ] Registered Processes
 [ ] Timeouts
