@@ -48,7 +48,7 @@ Chapter 3 Sequential Erlang
 Chapter 4 Concurrent Programming
 [x] Creating Processes
 [x] Message Passing
-[ ] Receiving Messages
+[x] Receiving Messages
 [ ] Registered Processes
 [ ] Timeouts
 [ ] Benchmarking
