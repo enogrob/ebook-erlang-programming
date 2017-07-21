@@ -49,10 +49,10 @@ Chapter 4 Concurrent Programming
 [x] Creating Processes
 [x] Message Passing
 [x] Receiving Messages
-[ ] Registered Processes
-[ ] Timeouts
-[ ] Benchmarking
-[ ] Process Skeletons
+[x] Registered Processes
+[x] Timeouts
+[x] Benchmarking
+[x] Process Skeletons
 [ ] Tail Recursion and Memory Leaks
 [ ] A Case Study on Concurrency-Oriented Programming
 [ ] Race Conditions, Deadlocks, and Process Starvation
