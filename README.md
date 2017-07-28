@@ -4,7 +4,7 @@ Roberto Nogueira  BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
 
-![ebook cover](images/erlang-programming.png)`
+![ebook cover](images/ebook.png)`
 
 # Erlang Programming
 

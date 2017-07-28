@@ -1,4 +1,12 @@
 
+---
+
+![](images/ebook.png)
+
+Erlang programming
+
+---
+
 # Chapter 4
 
 Concurrent Programming
