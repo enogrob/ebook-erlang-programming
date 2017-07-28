@@ -1,10 +1,17 @@
 
+# Chapter 4
+
+Concurrent Programming
+
 ---
+
 ### Concurrent programming
 * **Concurrency** is the ability for different functions to execute in parallel without affecting each other.
 * **Process** is the concurrent activity in Erlang.
 * **Message Passing** is only way for processes to interact with each other.
+
 ---
+
 ![](images/erlang-the-movie.png)
 
 > The world is concurrent.
@@ -14,6 +21,7 @@ Things communicate with messages.
 *Joe Armstrong*
 
 ---
+
 ### Subjects
 * Creating Processes
 * Message Passing
@@ -26,13 +34,17 @@ Things communicate with messages.
 * A Case Study on Concurrent Oriented Programming
 * Race Conditions, Deadlocks, and Processes Starvation
 * The Process Manager
+
 ---
+
 ### Creating Processes
 ```erlang
 Pid2 = spawn(Module, Function, Args).
 ```
 ![](images/screenshot_8624.png)
+
 ---
+
 #### Spanning a process
 ```erlang
 1> spawn(no_module, nonexisting_function, []).
@@ -42,7 +54,9 @@ Pid2 = spawn(Module, Function, Args).
 Error in process <0.65.0> with exit value:
 {undef,[{no_module,nonexisting_function,[],[]}]}
 ```
+
 ---
+
 #### List all runnig processes
 ```erlang
 1> processes().
@@ -53,7 +67,9 @@ Error in process <0.65.0> with exit value:
  <0.53.0>,<0.63.0>]
 2>
 ```
+
 ---
+
 #### Find out what they are doing
 ```erlang
  2> i().
@@ -66,13 +82,17 @@ erts_code_purger  erts_code_purger:loop/0     3
 <0.4.0>           erlang:apply/2           4185  124855    0
 :
 ```
+
 ---
+
 ### Message Passing
 ![](images/screenshot_8625.png)
 
 * Processes communicate with each other using message passing.
 * Each Erlang process has a `mailbox` in which incoming messages are stored.
+
 ---
+
 #### Sending messages to the shell
 ```erlang
 1> Pid = self().
@@ -92,7 +112,9 @@ hello
 Shell got hello
 ok
 ```
+
 ---
+
 #### Making the shell crash
 ```erlang
 1> self().
@@ -108,4 +130,5 @@ hello
 5> flush().
 ok
 ```
+
 ---

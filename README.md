@@ -1,3 +1,4 @@
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/enogrob/erlang-programming/master?grs=github&t=moon)
 ```
 Roberto Nogueira  BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
