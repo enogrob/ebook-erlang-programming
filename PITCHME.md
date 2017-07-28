@@ -15,8 +15,8 @@ Concurrent Programming
 ![](images/erlang-the-movie.png)
 
 > The world is concurrent.
-Things in the world don't share data.
-Things communicate with messages.
+> Things in the world don't share data.
+> Things communicate with messages.
 
 *Joe Armstrong*
 
