@@ -13,7 +13,7 @@ Solution Integrator Experienced - Certified by Ericsson
 ```
 Chapter 1 Introduction
 [x] Why Should I Use Erlang?
-[ ] The History of Erlang
+[x] The History of Erlang
 [ ] Erlang’s Characteristics
 [ ] Erlang and Multicore
 [ ] Case Studies
