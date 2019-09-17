@@ -13,51 +13,51 @@ Solution Integrator Experienced - Certified by Ericsson
 ```
 Chapter 1 Introduction
 [x] Why Should I Use Erlang?
-[x] The History of Erlang
-[x] Erlang’s Characteristics
-[x] Erlang and Multicore
-[x] Case Studies
-[x] How Should I Use Erlang?
+[ ] The History of Erlang
+[ ] Erlang’s Characteristics
+[ ] Erlang and Multicore
+[ ] Case Studies
+[ ] How Should I Use Erlang?
 
 Chapter 2 Basic Erlang
-[x] Integers
-[x] The Erlang Shell
-[x] Floats
-[x] Atoms
-[x] Booleans
-[x] Tuples
-[x] Lists
-[x] Term Comparison
-[x] Variables
-[x] Complex Data Structures
-[x] Pattern Matching
-[x] Functions
-[x] Modules
-[x] Exercises
+[ ] Integers
+[ ] The Erlang Shell
+[ ] Floats
+[ ] Atoms
+[ ] Booleans
+[ ] Tuples
+[ ] Lists
+[ ] Term Comparison
+[ ] Variables
+[ ] Complex Data Structures
+[ ] Pattern Matching
+[ ] Functions
+[ ] Modules
+[ ] Exercises
 
 Chapter 3 Sequential Erlang
-[x] Conditional Evaluations
-[x] Guards
-[x] Built-in Functions
-[x] Recursion
-[x] Runtime Errors
-[x] Handling Errors
-[x] Library Modules
-[x] The Debugger
-[x] Exercises
+[ ] Conditional Evaluations
+[ ] Guards
+[ ] Built-in Functions
+[ ] Recursion
+[ ] Runtime Errors
+[ ] Handling Errors
+[ ] Library Modules
+[ ] The Debugger
+[ ] Exercises
 
 Chapter 4 Concurrent Programming
-[x] Creating Processes
-[x] Message Passing
-[x] Receiving Messages
-[x] Registered Processes
-[x] Timeouts
-[x] Benchmarking
-[x] Process Skeletons
-[x] Tail Recursion and Memory Leaks
-[x] A Case Study on Concurrency-Oriented Programming
-[x] Race Conditions, Deadlocks, and Process Starvation
-[x] The Process Manager
+[ ] Creating Processes
+[ ] Message Passing
+[ ] Receiving Messages
+[ ] Registered Processes
+[ ] Timeouts
+[ ] Benchmarking
+[ ] Process Skeletons
+[ ] Tail Recursion and Memory Leaks
+[ ] A Case Study on Concurrency-Oriented Programming
+[ ] Race Conditions, Deadlocks, and Process Starvation
+[ ] The Process Manager
 [ ] Exercises
 
 Chapter 5 Process Design Patterns
