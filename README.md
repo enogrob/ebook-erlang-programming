@@ -20,11 +20,11 @@ Chapter 1 Introduction
 [x] How Should I Use Erlang?
 
 Chapter 2 Basic Erlang
-[ ] Integers
-[ ] The Erlang Shell
-[ ] Floats
-[ ] Atoms
-[ ] Booleans
+[x] Integers
+[x] The Erlang Shell
+[x] Floats
+[x] Atoms
+[x] Booleans
 [ ] Tuples
 [ ] Lists
 [ ] Term Comparison
