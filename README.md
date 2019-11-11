@@ -25,7 +25,7 @@ Chapter 2 Basic Erlang
 [x] Floats
 [x] Atoms
 [x] Booleans
-[ ] Tuples
+[x] Tuples
 [ ] Lists
 [ ] Term Comparison
 [ ] Variables
